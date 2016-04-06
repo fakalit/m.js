@@ -1,0 +1,13 @@
+{
+  "name": "m.js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lie": "~3.0.0",
+    "sockjs-client": "~1.0.3",
+    "xr": "https://github.com/radiosilence/xr.git#d99970bab467fb9881180665364e534a2b10fd19",
+    "slang": "devongovett/slang",
+    "underscore": "~1.8.3",
+    "moment": "^2.11.2"
+  }
+}

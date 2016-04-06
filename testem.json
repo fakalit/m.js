@@ -1,0 +1,6 @@
+{
+  "framework": "jasmine2",
+  "before_tests": "npm run build:testem",
+  "on_exit": "npm run clear",
+  "test_page": "testem.html"
+}
